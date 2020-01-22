@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="testautomationsmoketests" storage="c:\flightpro\dev\_main\test automation\flightpro\fightpro_webautomation\fpwebautomation_mstests\testautomationsmoketests.orderedtest" id="bfbe11bb-2c1c-471d-a63a-330578e1e33a" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="b6fe8aff-cea9-c381-fd11-5eb0d5db228b" name="TC01_Smoke_ShiftAdmin_Addshift" storage="bin\debug\fpwebautomation_mstests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="01355afe-0ef6-e3e4-47ef-74190492ee15" name="TC02_Smoke_RosterAdmin_AddRoster" storage="bin\debug\fpwebautomation_mstests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="4179a1e6-158b-16bf-87cf-af31fba34068" name="TC03_Smoke_Roster_ScheduleRoster" storage="bin\debug\fpwebautomation_mstests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="01327a45-2aec-e5ff-e4c4-ae8ab7ed4961" name="TC04_Smoke_Roster_RemoveRoster" storage="bin\debug\fpwebautomation_mstests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="fdbec9a6-93c8-0786-0bd4-be70aacecf6b" name="TC05_Smoke_RosterAdmin_DeleteRoster" storage="bin\debug\fpwebautomation_mstests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="f416af0f-824f-0260-3a39-e76aec585da6" name="TC06_Smoke_ShiftAdmin_DeleteShift" storage="bin\debug\fpwebautomation_mstests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>
